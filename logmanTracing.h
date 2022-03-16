@@ -1,0 +1,8 @@
+//
+// Created by Brock on 16/03/2022.
+//
+
+#ifndef WINAPI_LOGMANTRACING_H
+#define WINAPI_LOGMANTRACING_H
+
+#endif //WINAPI_LOGMANTRACING_H

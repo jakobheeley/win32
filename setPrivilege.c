@@ -2,10 +2,12 @@
 // Created by Brock on 08/03/2022.
 // Sets SeDebugPrivilege
 //
-
+#include <Windows.h>
+#include <minwindef.h>
 #include <stdio.h>
-#include <windows.h>
-#include <psapi.h>
+
+#include "setPrivilege.h"
+
 
 TOKEN_PRIVILEGES tp;
 LUID luid;

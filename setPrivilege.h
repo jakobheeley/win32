@@ -5,8 +5,6 @@
 #ifndef WINAPI_SETPRIVILEGE_H
 #define WINAPI_SETPRIVILEGE_H
 
-#include <minwindef.h>
-
 BOOL setPrivilege();
 
 #endif //WINAPI_SETPRIVILEGE_H
